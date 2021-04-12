@@ -11,10 +11,10 @@ Employee Management System (EMS) application is designed to manage employee deta
   Admin can login ,  do CRUD operations of employee project details ,  add performance percentage and bonus of an employee.
   Employee can login, do CRUD operations of his personal information and submit his assignments.
 ### Features
-Login : Admin and Employee will be able to login to the application.
-Authentication : Login details will be authenticated before viewing the page.
-CRUD : Admin and employee can do different CRUD operations through out the application.
-Performance calculation : Admin will be able to calculate performance percentage based on finished assignments of an employee.
+- Login : Admin and Employee will be able to login to the application.
+- Authentication : Login details will be authenticated before viewing the page.
+- CRUD : Admin and employee can do different CRUD operations through out the application.
+- Performance calculation : Admin will be able to calculate performance percentage based on finished assignments of an employee.
 ### Technologies
 - Java
 - Spring Boot
