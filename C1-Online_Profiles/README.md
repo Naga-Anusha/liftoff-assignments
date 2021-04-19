@@ -13,6 +13,6 @@ https://github.com/Naga-Anusha/liftoff-assignments
 https://www.linkedin.com/in/naga-anusha-maddi-35a38a20b/
 
 ### Resume
-https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:4479c1f4-2f52-4f71-8543-13f2eb06caa5
+https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:e3a2dd71-b16e-4df9-a0d3-6d9d67e3c0fb
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
