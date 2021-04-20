@@ -8,12 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:a9c5c8ed-702e-41ca-84f1-c98f98a0876c
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/jGg5fMiM/ems
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Naga-Anusha/Employee-Management-System
