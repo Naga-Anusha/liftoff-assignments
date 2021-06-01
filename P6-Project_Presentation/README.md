@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:423408d8-0d7d-4a99-a0d6-b128e81a0da4
